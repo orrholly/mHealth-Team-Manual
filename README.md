@@ -30,5 +30,5 @@ We have many tools we use at NYU mHealth to help us communicate and innovate. So
 
 This is a current list of what we use with a link to an introduction and tutorials. Remember - there are no "dumb" questions - so always feel free to ask questions:
 
-*Required*
-**If you don't already have access - email holly.orr@nyu.edu and sasha.guttentag@nyu.edu.**
+**Required**  
+*If you don't already have access - email holly.orr@nyu.edu and sasha.guttentag@nyu.edu.*
