@@ -25,6 +25,8 @@ We like to say if you meet someone that is born knowing how to do *everything* t
 
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
+In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. So you will learn by osmosis - *don't sweat it*! But, if you would like to learn more...click here. 
+
 ####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
@@ -32,3 +34,21 @@ This is a current list of what we use with a link to an introduction and tutoria
 
 **Required**  
 *If you don't already have access - email holly.orr@nyu.edu and sasha.guttentag@nyu.edu.*
+- NYU mHealth Google Drive 
+- NYU mHealth Google Calendars
+- Github/Git/Git Desktop
+- Jira
+- Slack
+
+**Optional**
+*Access will be given based on the research and projects you work on - but request access to anything you would like to explore!
+- Survos
+- ArcGIS
+- CartoDB
+- QGIS
+- AWS (Amazon Web Services)
+- IDEs (aka integrated delelopment environment)
+  - RStudio
+  - PyCharm
+  - Sublime
+  - [Jupyter Notebooks](http://jupyter.org/)
