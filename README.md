@@ -22,6 +22,6 @@ As we create the website, we'd like to include mini-bios about all of our member
 We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to use Jira, build a log-linear model, program in Python, or develop the best research protocol. 
 
 We like to say if you meet someone that is born knowing how to do *everything* then they are probably some sort of AI from the future and you should run-away as fast as possible! 
-<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/giphy-instagram.mp4">
+<iframe src="//giphy.com/embed/l2JIireYxichTAGpq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/arnold-schwarzenegger-l2JIireYxichTAGpq">via GIPHY</a></p>
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
