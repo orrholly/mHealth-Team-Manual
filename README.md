@@ -34,8 +34,7 @@ This is a current list of what we use with a link to an introduction and tutoria
 
 **Required**  
 *If you don't already have access - email holly.orr@nyu.edu and sasha.guttentag@nyu.edu.*
-- NYU mHealth Google Drive 
-- NYU mHealth Google Calendars
+- NYU mHealth Google Drive / Calendars
 - Github/Git/Git Desktop
 - Jira
 - Slack
