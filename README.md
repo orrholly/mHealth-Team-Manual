@@ -7,10 +7,10 @@ Congratulations! Since you are reading this, you have accomplised the first step
 ####Avatar
 The next step to becoming an NYU mHealth team member is creating your avatar! Yes, we know it's whimsical, but believe us, it serves a purpose. You'll see. For now, download one of the following apps (or add your favorite to the list!), create your avatar, and send it as a .png or .jpg to holly.orr@nyu.edu or sasha.guttentag@nyu.edu.
 
-*Bitmoji (App)  
-*http://www.faceyourmanga.com/  
-*http://www.doppelme.com/create/  
-*http://www.blogcdn.com/www.joystiq.com/media/2006/10/mii.swf  
-*http://www.manga.com/content/avatar-face-maker  
+- Bitmoji (App)  
+- http://www.faceyourmanga.com/  
+- http://www.doppelme.com/create/  
+- http://www.blogcdn.com/www.joystiq.com/media/2006/10/mii.swf  
+- http://www.manga.com/content/avatar-face-maker  
 
 
