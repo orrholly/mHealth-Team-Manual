@@ -41,7 +41,7 @@ This is a current list of what we use with a link to an introduction and tutoria
 - Slack
 
 **Optional**  
-*Access will be given based on the research and projects you work on - but request access to anything you would like to explore!*
+*Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - Survos
 - ArcGIS
 - CartoDB
