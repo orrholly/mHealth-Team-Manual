@@ -13,4 +13,8 @@ The next step to becoming an NYU mHealth team member is creating your avatar! Ye
 - http://www.blogcdn.com/www.joystiq.com/media/2006/10/mii.swf  
 - http://www.manga.com/content/avatar-face-maker  
 
+####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/avatar.ico" width="40">  Send Us Your Bio
+As we create the website, we'd like to include mini-bios about all of our members - along with the avatars (see above). Here an example bio just so you have a sense of what we're going for.
+
+**Jane Doe is an Epidemiology MPH student at the NYU College of Global Public Health. Her interests include geospatial analysis and predictive behavior modeling. Within the mHealth Lab, she is currently focused on QA testing of mobile surveying software and cross-collaborative project management. 
 
