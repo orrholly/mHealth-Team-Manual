@@ -25,7 +25,7 @@ We like to say if you meet someone that is born knowing how to do *everything* t
 
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
-####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/brainstorming-icon.png" width="50">  The Toolbox
+####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
 This is a current list of what we use with a link to an introduction and tutorials. Remember - there are no "dumb" questions - so always feel free to ask questions:
