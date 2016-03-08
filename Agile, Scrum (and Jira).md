@@ -1,4 +1,5 @@
-## <img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/lion.jpg" width="200">  Agile and Scrum and Jira (oh my!)
+<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/lion.jpg" width="200">
+##Agile and Scrum and Jira (oh my!)
 
 
 ###<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/scrum.gif" width="100">  Agile: This is How We Roll
