@@ -16,7 +16,7 @@
 
 Once upon a time, we thought we could plan ahead for everything (LOL). But then [Moore's Law] (https://en.wikipedia.org/wiki/Moore%27s_law) got in the way. For years we fell down a [waterfall](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ) (punn intended). The weird thing is - we followed a plan that was really meant to be a warning (really you got to read [*this*](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ) - it's insane). As a result, a bunch of brilliant (and frusturated) developers came together to create a framework that could best answer the riddle "how do you manage a team in a world of constant change?". The answer: [The Agile Manifesto] (http://www.agilemanifesto.org/principles.html). I know, the "official web page" looks like your mom's blog post - but be nice... with age, comes wisdom (and content > presentation).
 
-OK. Good point (says you - after you read [**what we told you to read above**](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ). 
+OK. Good point (says you - after you read [**what we told you to read above**)](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ). 
 
         "But how do I implement an Agile approach to my work?"
         
