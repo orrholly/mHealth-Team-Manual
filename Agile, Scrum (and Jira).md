@@ -24,6 +24,6 @@ OK. Good point (says you - after you read [what we told you to read above](https
 ####Scrum
 Well... there are frameworks for Agile that help you set some rules and steps for humans to follow. The idea with Agile is that you can choose rules... and then break them to fit your needs (we call it "peaceful anarchy" ). Currently, we are in the  [Scrum](https://www.scrumalliance.org/why-scrum) tribe, but there are many other choices: (Kanban, Extreme Programming, Adaptive Software Development...). BTW - Tell us why would we should pivot to another... we are alway opens to change (Agile). But for now...
 
-        Scrum is an Agile framework for completing complex projects. Scrum originally was formalized for software development projects,
-        but it works well for any complex, innovative scope of work. The possibilities are endless. The Scrum framework is deceptively
+        Scrum is an Agile framework for completing complex projects. Scrum originally was formalized for software development projects,  
+        but it works well for any complex, innovative scope of work. The possibilities are endless. The Scrum framework is deceptively  
         simple.
