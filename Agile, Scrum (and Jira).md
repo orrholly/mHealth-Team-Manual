@@ -14,7 +14,7 @@
         and adaptation of plans.
         "agile methods replace high-level design with frequent redesign"  
 
-Once upon a time, we thought we could plan ahead for everything. But then [Moore's Law] (https://en.wikipedia.org/wiki/Moore%27s_law) got in the way. For years we fell down a [waterfall](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ) (punn intended). The weird thing is - we followed a plan that was really meant to be a warning (really you got to read *this* - it's insane). As a result, a bunch of brilliant (and frusturated) developers came together to create a framework that could best answer the riddle "how do you create a plan in a world of change?". The answer: The Agile Manifesto.
+Once upon a time, we thought we could plan ahead for everything. But then [Moore's Law] (https://en.wikipedia.org/wiki/Moore%27s_law) got in the way. For years we fell down a [waterfall](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ) (punn intended). The weird thing is - we followed a plan that was really meant to be a warning (really you got to read [*this*](https://drive.google.com/drive/u/1/folders/0BySL4iPkCvi4ejhwVHdiTm5fbjQ) - it's insane). As a result, a bunch of brilliant (and frusturated) developers came together to create a framework that could best answer the riddle "how do you create a plan in a world of change?". The answer: The Agile Manifesto.
 
 OK. Good point (says you). But how do I implement an Agile approach to my work? Well... there are many frameworks. The most popular is Scrum 
 
