@@ -29,7 +29,7 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
 Calendars  
-When your not going to be in the office  
+When you're not going to be in the office  
 Travel  
 Purchasing  
 Video conferencing  
