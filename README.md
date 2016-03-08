@@ -30,10 +30,11 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 ####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
-This is a current list of what we use with a link to an introduction and tutorials. Remember - there are no "dumb" questions - so always feel free to ask questions:
+Below is a current list of what we use with a link to an introduction and tutorials. Remember - there are no "dumb" questions - so always feel free to ask questions.
+
+During your first week with us, go through each of the links in the **Required** list. You should have been given accounts and access to these tools on your first day. If you don't have access (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
 
 **Required**  
-*If you don't already have access - email holly.orr@nyu.edu and sasha.guttentag@nyu.edu.*
 - NYU mHealth Google Drive / Calendars
 - Github/Git/Git Desktop
 - Jira
