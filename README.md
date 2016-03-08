@@ -42,10 +42,13 @@ This is a current list of what we use with a link to an introduction and tutoria
 **Optional**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - Survos
-- ArcGIS
+- ArcGIS (request license from library - requires Windows operating system)
+- AWS (Amazon Web Services)
+
+**Optional**  
+*These are free and open source tools team members suggest trying - if you like...*
 - CartoDB
 - QGIS
-- AWS (Amazon Web Services)
 - IDEs (aka integrated delelopment environment)
   - RStudio
   - PyCharm
