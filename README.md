@@ -25,7 +25,7 @@ We like to say if you meet someone that is born knowing how to do *everything* t
 
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
-In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. So you will learn by osmosis - *don't sweat it*! But, if you would like to learn more...click here. 
+In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis -*don't sweat it*! But, if you would like to learn more...click here. 
 
 ####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
