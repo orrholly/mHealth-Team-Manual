@@ -19,7 +19,7 @@ As we create the website, we'd like to include mini-bios about all of our member
 *Jane Doe is an Epidemiology MPH student at the NYU College of Global Public Health. Her interests include geospatial analysis and predictive behavior modeling. Within the mHealth Lab, she is currently focused on QA testing of mobile surveying software and cross-collaborative project management.* 
 
 ####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/brainstorming-icon.png" width="50">  The Culture
-We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to use Jira, build a log-linear model, program in Python, or develop the best research protocol. 
+We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to use Jira, build a log-linear model, program in Python, or develop the best research protocol. That's why we are here, right? To learn! 
 
 We like to say if you meet someone that is born knowing how to do *everything* then [they are probably some sort of AI from the future](https://en.wikipedia.org/wiki/The_Terminator) and you should run-away as fast as possible! 
 
