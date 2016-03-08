@@ -39,13 +39,13 @@ This is a current list of what we use with a link to an introduction and tutoria
 - Jira
 - Slack
 
-**Optional**  
+**Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - Survos
 - ArcGIS (request license from library - requires Windows operating system)
 - AWS (Amazon Web Services)
 
-**Optional**  
+**Optional - Free and Open Source**  
 *These are free and open source tools team members suggest trying - if you like...*
 - CartoDB
 - QGIS
