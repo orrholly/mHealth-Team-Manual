@@ -28,11 +28,13 @@ Well... there are frameworks for Agile that help you set some rules and steps fo
         software development projects, but it works well for any complex, innovative scope of work.   
         The possibilities are endless. The Scrum framework is deceptively simple.
 
-What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech documentation. So, let's break it down:
+What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech documentation. So, let's break it down to the parts of Scrum we currently practice at NYU mHealth:
 - Sprint: 
 - Weekly Scrum:
 - Jira:
 - Agile Board:
- 
-http://scrumreferencecard.com/scrum-reference-card/
+
+As we grow and learn as a team, we will add more Scrum/Agile elements to our process - hey we're learning all this too! If you want to learn more about Agile and Scrum, here are a list of resources we suggest (remember to feel free to add any you find)!
+
+- http://scrumreferencecard.com/scrum-reference-card/
 
