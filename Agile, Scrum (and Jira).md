@@ -28,7 +28,11 @@ Well... there are frameworks for Agile that help you set some rules and steps fo
         software development projects, but it works well for any complex, innovative scope of work.   
         The possibilities are endless. The Scrum framework is deceptively simple.
 
-What?? That makes it clear as mud. Yea. We know. Welcome to the world of tech documentation. So, let's break it down:
-Sprint
-Story Points
+What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech documentation. So, let's break it down:
+- Sprint: 
+- Weekly Scrum:
+- Jira:
+- Agile Board:
+ 
+http://scrumreferencecard.com/scrum-reference-card/
 
