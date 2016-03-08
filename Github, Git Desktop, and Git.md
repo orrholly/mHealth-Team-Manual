@@ -2,19 +2,28 @@
 
 In case you don't know what version control is and why we use it, [watch this](http://git-scm.com/video/what-is-version-control) and then come back.
 
-There are [many choices](https://en.wikipedia.org/wiki/Comparison_of_version_control_software) in the version control market. At NYU mHealth, we used Git. 
+There are [many choices](https://en.wikipedia.org/wiki/Comparison_of_version_control_software) in the version control market. At NYU mHealth, we use Git. 
+
+**TODO:**
+So, if you already have a Github account, give Holly or Sasha your username so we can add you to the NYU mHealth Github organization.  
+If you don't have an account:
+    - Go to Github.com
+    - Sign up for an account
+     - Give Holly or Sasha your username
 
 ###What's the Diff?
 Now you are saying, what's the difference between Git, Git Desktop, and Github? 
 
+**GitHub** is a hosting service for Git repositories. It allows for easy team collaboration - a central place for us to share our code and often changing documentation (like this Team Handbook)! You can get by just using Github to upload, view, and download files. But if you are going to do some programming you probably want to try...
+**[Github Desktop](https://desktop.github.com/)** is a desktop client that allows you to do most functions 
 **Git** is the actual version control system, a tool to manage your source code history. 
-**GitHub** is a hosting service for Git repositories. 
 
 So they are not the same thing: 
-- Git = tool 
 - GitHub = a web service for projects that use Git
+- Github Desktop = a GUI (graphical user interface) desktop client that makes using git commands easier.
+- Git = the tool and the command line approach to executing Git commands
 
-Git it (haha)? If you are still confused, watch this.
+Git it (haha)? Still confused? Watch [this](https://www.youtube.com/watch?v=xKVlZ3wFVKA) or ask us!
 
 
 
