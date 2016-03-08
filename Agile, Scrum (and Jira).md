@@ -1,4 +1,3 @@
-<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/lion.jpg" width="200">
 ##Agile and Scrum and Jira (oh my!)
 
 
