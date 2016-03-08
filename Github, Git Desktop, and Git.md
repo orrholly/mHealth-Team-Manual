@@ -14,9 +14,9 @@ If you don't have an account:
 ###What's the Diff?
 Now you are saying, what's the difference between Git, Git Desktop, and Github? 
 
-**GitHub** is a hosting service for Git repositories. It allows for easy team collaboration - a central place for us to share our code and often changing documentation (like this Team Handbook)! You can get by just using Github to upload, view, and download files. But if you are going to do some programming you probably want to try...
-**[Github Desktop](https://desktop.github.com/)** is a desktop client that allows you to do most functions 
-**Git** is the actual version control system, a tool to manage your source code history. 
+**GitHub** is a hosting service for Git repositories. It allows for easy team collaboration - a central place for us to share our code and often changing documentation (like this Team Handbook)! You can get by just using Github to upload, view, and download files. But if you are going to do some programming you probably want to try...  
+**[Github Desktop](https://desktop.github.com/)** is a desktop client that allows you to do most functions   
+**Git** is the actual version control system, a tool to manage your source code history.   
 
 So they are not the same thing: 
 - GitHub = a web service for projects that use Git
@@ -25,5 +25,7 @@ So they are not the same thing:
 
 Git it (haha)? Still confused? Watch [this](https://www.youtube.com/watch?v=xKVlZ3wFVKA) or ask us!
 
-
+###Gitting Started (sorry, I can't help myself)
+While we are onboarding you, we will help you create a repo for your research and/or project. You can also ask your teammates for help. Or you can checkout these tutorials (there are a ton out there). If find others you recommend - add it to this list!
+- 
 
