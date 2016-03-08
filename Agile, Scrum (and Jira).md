@@ -29,3 +29,6 @@ Well... there are frameworks for Agile that help you set some rules and steps fo
         The possibilities are endless. The Scrum framework is deceptively simple.
 
 What?? That makes it clear as mud. Yea. We know. Welcome to the world of tech documentation. So, let's break it down:
+Sprint
+Story Points
+
