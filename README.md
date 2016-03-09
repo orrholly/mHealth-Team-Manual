@@ -37,8 +37,11 @@ We currently have three Google calendars we can share with you. To learn how to 
  - mHealth Events: Add events here that we host or would be of interest to the group.
  - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
  
-**Travel**  
-This is Koylan Gomez
+**Travel, Purchases, and Reimbursements**  
+<img src="/Images/koylan.JPG" width="40"> This is Koylan Gomez, Research Admin Extraordinaire
+
+Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request at least a week in advance. If you find yourself needing last minute changes or travel, talk to Tom.
+
 
 **Purchasing**
 
