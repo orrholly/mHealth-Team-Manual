@@ -12,6 +12,8 @@ If you don't have an account:
     - Sign up for an account    
     - Give Holly or Sasha your username  
 
+Once you have access, you might want to bookmark our Github instance: https://github.com/nyu-mhealth
+
 ####What's the Diff?
 Now you are saying, what's the difference between Git, Git Desktop, and Github? 
 
