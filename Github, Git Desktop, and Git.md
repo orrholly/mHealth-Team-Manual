@@ -32,7 +32,7 @@ Git it (haha)? Still confused? Watch [this](https://www.youtube.com/watch?v=xKVl
 
 ####Gitting Started  
 
-While we are onboarding you, we will help you create a repo for your research and/or project. You can also ask your teammates for help. Or you can checkout some tutorials, including the ones we've listed below (there are a ton out there). If you find others you recommend - add it to this list!
+While we are onboarding you, we will help you create a repo for your research and/or project. You can also ask your teammates for help. Or you can checkout some tutorials, like the ones we've listed below (there are a ton out there). If you find others you recommend - add it to this list!
 
 - [Github Use Cases and Desktop Apps](https://www.youtube.com/watch?v=l40x1EshOBE)
 - [Getting Git Right](https://www.atlassian.com/git/)
