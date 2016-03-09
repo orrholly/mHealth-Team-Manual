@@ -1,10 +1,10 @@
 # Welcome to the NYU mHealth Team
 
-##<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/nervous.jpg" width="100">  Your First Day: Don't Sweat It
+##<img src="/Images/nervous.jpg" width="100">  Your First Day: Don't Sweat It
 ####<img src="https://github.com/favicon.ico" width="35">  Starting with Github
 Congratulations! Since you are reading this, you have accomplised the first step in your onboarding process... accessing our Github site! You are inside what is called a repository (repo for short). Each repo on the NYU mHealth site is associated with a research project or topic where files, code, and documentation can be updated and managed. Git is the current cool kid for [version control](http://git-scm.com/video/what-is-version-control). But more on that later...
 
-####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/avatar.ico" width="40">  Create Your Avatar
+####<img src="/Images/avatar.ico" width="40">  Create Your Avatar
 The next step to becoming an NYU mHealth team member is creating your avatar! Yes, we know it's whimsical, but believe us, it serves a purpose. You'll see. For now, download one of the following apps (or add your favorite to the list!), create your avatar, and send it as a .png or .jpg to holly.orr@nyu.edu or sasha.guttentag@nyu.edu.
 
 - Bitmoji (App)  
@@ -35,7 +35,7 @@ Purchasing
 Video conferencing  
 Booking a room  
 
-####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/toolbox.png" width="50">  The Toolbox
+####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
 Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, or third) week with us, go through each of the links in the **Required** list. Here you will find intros and links to tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
