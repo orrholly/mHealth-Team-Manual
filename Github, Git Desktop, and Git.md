@@ -28,8 +28,8 @@ So they are not the same thing:
 
 Git it (haha)? Still confused? Watch [this](https://www.youtube.com/watch?v=xKVlZ3wFVKA) or ask us!
 
-###Gitting Started
+###Gitting Started  
 
 While we are onboarding you, we will help you create a repo for your research and/or project. You can also ask your teammates for help. Or you can checkout these tutorials (there are a ton out there). If find others you recommend - add it to this list!
-- 
+
 
