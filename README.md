@@ -65,7 +65,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Required**  
 - NYU mHealth Google Drive
 - NYU mHealth Google Calendars
-- [Github/Git/Git Desktop](
+- [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - Jira
 - Slack
 
@@ -80,7 +80,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 - CartoDB
 - QGIS
 - IDEs (aka integrated delelopment environment)
-  - RStudio
+  - R and RStudio
   - PyCharm
   - Sublime
   - [Jupyter Notebooks](http://jupyter.org/)
