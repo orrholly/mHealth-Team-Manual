@@ -51,7 +51,8 @@ Below is a current list of what we use with a link to an introduction and tutori
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
 **Required**  
-- NYU mHealth Google Drive / Calendars
+- NYU mHealth Google Drive
+- NYU mHealth Google Calendars
 - Github/Git/Git Desktop
 - Jira
 - Slack
