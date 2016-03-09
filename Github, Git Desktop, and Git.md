@@ -7,9 +7,9 @@ There are [many choices](https://en.wikipedia.org/wiki/Comparison_of_version_con
 **TODO:**
 So, if you already have a Github account, give Holly or Sasha your username so we can add you to the NYU mHealth Github organization.  
 If you don't have an account:
-                Go to [Github.com](https://github.com/)
-                Sign up for an account
-                Give Holly or Sasha your username
+                Go to [Github.com](https://github.com/)  
+                Sign up for an account  
+                Give Holly or Sasha your username  
 
 ###What's the Diff?
 Now you are saying, what's the difference between Git, Git Desktop, and Github? 
