@@ -4,8 +4,8 @@ In case you don't know what version control is and why we use it, [watch this](h
 
 There are [many choices](https://en.wikipedia.org/wiki/Comparison_of_version_control_software) in the version control market. At NYU mHealth, we use Git. 
 
-**TODO:**
-So, if you already have a Github account, give Holly or Sasha your username so we can add you to the NYU mHealth Github organization.  
+If you already have a Github account, give Holly or Sasha your username so we can add you to the NYU mHealth Github organization. 
+
 If you don't have an account:
 
     - Go to [Github.com](https://github.com/)  
