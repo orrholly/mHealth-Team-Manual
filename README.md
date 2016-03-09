@@ -28,7 +28,14 @@ So ask questions! Fail fast and often! And teach your teammates when you can!
 In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)... click [here](Agile, Scrum (and Jira).md). 
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
-Calendars  
+**Calendars** 
+ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.
+We currently have three Google calendars we can share with you:  
+
+ - mHealth Student Schedules: Please keep this calendar updated with the days and times you plan on being in the office.   
+ - mHealth Travel Calendar: Please keep this up to date with times you will be out due to travel or vacation.  
+ - mHealth Events: Add events here that we host or would be of interest to the group.  
+
 When you're not going to be in the office  
 Travel  
 Purchasing  
