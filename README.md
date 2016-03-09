@@ -29,14 +29,15 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
 **Calendars and Schedules** 
-ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.    
+When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
+ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.      
 We currently have three Google calendars we can share with you. To learn how to use Google Calendars look here.   
  - mHealth Student Schedules: Please keep this calendar updated with the days and times you plan on being in the office.   
  - mHealth Travel Calendar: Please keep this up to date with times you will be out due to travel or vacation.  
  - mHealth Events: Add events here that we host or would be of interest to the group.
  - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
  
-When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email). 
+
 
 **Travel**  
 This is Koylan Gomez
