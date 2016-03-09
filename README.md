@@ -39,8 +39,7 @@ We currently have three Google calendars we can share with you. To learn how to 
  - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
  
 **Travel and Reimbursements**  
-
-This is Koylan Gomez, Research Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="30">
+<img src="/Images/koylan.JPG" width="35">   This is Koylan Gomez, Research Admin Extraordinaire - koylan.gomez@nyu.edu  
 
 Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
 
