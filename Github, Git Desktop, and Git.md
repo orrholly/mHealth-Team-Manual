@@ -19,11 +19,11 @@ Now you are saying, what's the difference between Git, Git Desktop, and Github?
 
 **[GitHub](https://github.com/)** is a hosting service for Git repositories. It allows for easy team collaboration - a central place for us to share our code and often changing documentation (like this Team Handbook)! You can get by just using Github to upload, view, and download files. But if you are going to do some programming you probably want to try... 
 
-**[Github Desktop](https://desktop.github.com/)** is a desktop client that allows you to do most functions   
+**[Github Desktop](https://desktop.github.com/)** : a desktop client that allows you to do most functions   
 
-**[Git](https://git-scm.com/)** is the actual version control system, a tool to manage your source code history.   
+**[Git](https://git-scm.com/)** : the actual version control system, a tool to manage your source code history.   
 
-So they are not the same thing: 
+So, they are not the same thing: 
 - GitHub = a web service for projects that use Git
 - Github Desktop = a GUI (graphical user interface) desktop client that makes using git commands easier
 - Git = the tool and the command line approach to executing Git commands
