@@ -29,7 +29,8 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
 **Calendars** 
-ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.
+
+ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.  
 We currently have three Google calendars we can share with you:  
 
  - mHealth Student Schedules: Please keep this calendar updated with the days and times you plan on being in the office.   
