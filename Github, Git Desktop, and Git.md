@@ -34,3 +34,4 @@ While we are onboarding you, we will help you create a repo for your research an
 
 - [Github Use Cases and Desktop Apps](https://www.youtube.com/watch?v=l40x1EshOBE)
 - [Getting Git Right](https://www.atlassian.com/git/)
+- [Tutorial on Branching - (we will git to that later)](http://pcottle.github.io/learnGitBranching/)
