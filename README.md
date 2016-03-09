@@ -50,7 +50,7 @@ Koylan can also help with reimbursements on travel expenses and other purchases 
 We have two weekly meetings:
 - Weekly Scrum (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00 - Room 718 or https://appear.in/nyumhealth
 - Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00 - Room 718 or https://appear.in/nyumhealth
-- 
+
 When you can't meet face-to-face, we use video conferencing tools. See a list of options here.
 
 CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
