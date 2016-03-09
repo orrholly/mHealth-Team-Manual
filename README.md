@@ -29,9 +29,8 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
 **Calendars and Schedules** 
-ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.  
-We currently have three Google calendars we can share with you. To learn how to use Google Calendars look here. 
-
+ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.    
+We currently have three Google calendars we can share with you. To learn how to use Google Calendars look here.   
  - mHealth Student Schedules: Please keep this calendar updated with the days and times you plan on being in the office.   
  - mHealth Travel Calendar: Please keep this up to date with times you will be out due to travel or vacation.  
  - mHealth Events: Add events here that we host or would be of interest to the group.
@@ -46,7 +45,6 @@ This is Koylan Gomez
 
 **Meetings and Video Conferencing**  
 We have two weekly meetings:
-
 - Weekly Scrum (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00 - Room 718 or https://appear.in/nyumhealth
 - Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00 - Room 718 or https://appear.in/nyumhealth 
 
