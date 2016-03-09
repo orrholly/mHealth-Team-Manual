@@ -28,7 +28,8 @@ So ask questions! Fail fast and often! And teach your teammates when you can!
 In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)... click [here](Agile, Scrum (and Jira).md). 
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
-**Calendars and Schedules**   
+**Calendars and Schedules**    
+
 When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
 ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.      
 We currently have three Google calendars we can share with you. To learn how to use Google Calendars look here.   
@@ -38,16 +39,22 @@ We currently have three Google calendars we can share with you. To learn how to 
  - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
  
 **Travel and Reimbursements**  
-This is Koylan Gomez, Research Admin Extraordinaire  <img src="/Images/koylan.JPG" width="50">
+
+This is Koylan Gomez, Research Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="50">
 
 Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
 
 Koylan can also help with reimbursements on travel expenses and other purchases related to NYU mHealth. These will require you provide receipts!
 
-**Meetings and Video Conferencing**  
+**Meetings, Video Conferencing, and Phone Conference Line**  
+
 We have two weekly meetings:
 - Weekly Scrum (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00 - Room 718 or https://appear.in/nyumhealth
-- Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00 - Room 718 or https://appear.in/nyumhealth 
+- Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00 - Room 718 or https://appear.in/nyumhealth
+- 
+When you can't meet face-to-face, we use video conferencing tools. See a list of options here.
+
+CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
 
 ####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
