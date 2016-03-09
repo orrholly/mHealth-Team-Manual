@@ -28,7 +28,7 @@ So ask questions! Fail fast and often! And teach your teammates when you can!
 In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)... click [here](Agile, Scrum (and Jira).md). 
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
-**Calendars and Schedules** 
+**Calendars and Schedules**   
 When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
 ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.      
 We currently have three Google calendars we can share with you. To learn how to use Google Calendars look here.   
@@ -37,8 +37,6 @@ We currently have three Google calendars we can share with you. To learn how to 
  - mHealth Events: Add events here that we host or would be of interest to the group.
  - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
  
-
-
 **Travel**  
 This is Koylan Gomez
 
