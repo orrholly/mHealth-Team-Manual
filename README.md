@@ -40,7 +40,7 @@ We currently have three Google calendars we can share with you. To learn how to 
  
 **Travel and Reimbursements**  
 
-This is Koylan Gomez, Research Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="50">
+This is Koylan Gomez, Research Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="30">
 
 Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
 
