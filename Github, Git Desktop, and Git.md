@@ -1,4 +1,4 @@
-<img src="/Images/git-logo.jpg" width="100">###Version Control and Git
+###<img src="/Images/git-logo.jpg" width="100">Version Control and Git
 
 In case you don't know what version control is and why we use it, [watch this](http://git-scm.com/video/what-is-version-control) and then come back.
 
