@@ -1,4 +1,4 @@
-<img src="/Images/can-you-hear-me-now.jpg" width="100">
+<img src="/Images/can-you-hear-me-now.jpg" width="300">
 ####Can You Hear Me Now?
 
 **Slack**
