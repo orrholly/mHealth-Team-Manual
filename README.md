@@ -36,7 +36,7 @@ We currently have three Google calendars we can share with you. For help on how 
  - mHealth Student Schedules: Please keep this calendar updated with the days and times you plan on being in the office.   
  - mHealth Travel Calendar: Please keep this up to date with times you will be out due to travel or vacation.  
  - mHealth Events: Add events here that we host or would be of interest to the group.
- - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask if you can have access to this calendar.
+ - 41 E. 11th St. Room Reservation Details: If you are going to be booking rooms for meetings at CGPH on a regular basis, ask  koylan.gomez@nyu.edu if you can have access to this calendar.
  
 **Travel and Reimbursements**  
 This is Koylan Gomez, Faculty Admin Aide Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
