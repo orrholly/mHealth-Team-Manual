@@ -66,7 +66,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 - [NYU mHealth Google Drive](Documentation and Data Sharing.md)
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - [Jira](Agile, Scrum (and Jira).md)
-- Slack
+- [Slack](How We Communicate.md)
 
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
