@@ -1,3 +1,4 @@
+<img src="/Images/computer.png" width="100">
 ####Where Do I Put This?
 
 **NYU mHealth Google Drive**
