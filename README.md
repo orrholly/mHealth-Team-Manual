@@ -65,7 +65,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Required**  
 - NYU mHealth Google Drive
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
-- Jira
+- [Jira](Agile, Scrum (and Jira).md)
 - Slack
 
 **Optional - Request Access**  
