@@ -47,11 +47,11 @@ Koylan can also help with reimbursements on travel expenses and other purchases 
 
 **Meetings, Video Conferencing, and Phone Conference Line**  
 
-We have two weekly meetings:
-- Weekly Scrum (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00 - Room 718 or https://appear.in/nyumhealth
-- Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00 - Room 718 or https://appear.in/nyumhealth
+We have two weekly meetings in Room 718:
+- Weekly Scrum (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
+- Weekly Team Meeting (try to be at this one!): Wednesdays - 11:00-12:00
 
-When you can't meet face-to-face, we use video conferencing tools. See a list of options here.
+When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
 
 CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
 
@@ -64,7 +64,6 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 
 **Required**  
 - NYU mHealth Google Drive
-- NYU mHealth Google Calendars
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - Jira
 - Slack
@@ -72,6 +71,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - Survos
+- NYU Box
 - ArcGIS (request license from library - requires Windows operating system)
 - AWS (Amazon Web Services)
 
