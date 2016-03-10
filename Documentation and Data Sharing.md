@@ -1,4 +1,4 @@
-<img src="/Images/computer.png" width="100">
+<img src="/Images/computer.png" width="200">
 ####Where Do I Put This?
 
 **NYU mHealth Google Drive**
