@@ -29,34 +29,6 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 
 ##<img src="/Images/nervous.jpg" width="120">  After Your First Day: The Yin and the Yang
 
-####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
-**Calendars and Schedules**    
-
-When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
-ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.      
-We currently have three Google calendars we can share with you. For help on how to use NYU Google Calendars look [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/nyu-calendar.html).
- - **mHealth Student Schedules:** Keep this calendar updated with the days and times you plan on being in the office.   
- - **mHealth Travel Calendar:** Keep this up to date with times you will be out due to travel or vacation.  
- - **mHealth Events:** Add events here that we host or would be of interest to the group.
- - **41 E. 11th St. Room Reservation:** To book rooms for meetings at CGPH request access from koylan.gomez@nyu.edu.
- 
-**Travel and Reimbursements**  
-This is Koylan Gomez, Faculty Admin Aide Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
-
-Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
-
-Koylan can also help with reimbursements on travel expenses and other purchases related to NYU mHealth. These will require you provide receipts!
-
-**Meetings, Video Conferencing, and Phone Conference Line**  
-
-We have two weekly meetings in Room 718:
-- [The Weekly Scrum](The Weekly Scrum.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
-- [The Weekly Team Meeting](The Weekly Team Meeting) (try to be at this one!): Wednesdays - 11:00-12:00
-
-When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
-
-CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
-
 ####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
@@ -85,4 +57,32 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
   - [R](www.r-project.org) and [RStudio](https://www.rstudio.com/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [Sublime](https://www.sublimetext.com/)
-  - [Jupyter Notebooks](http://jupyter.org/)
+  - [Jupyter Notebooks](http://jupyter.org/)  
+
+####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
+**Calendars and Schedules**    
+
+When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
+ALL - THIS IS JUST A PLACEHOLDER PLEASE REPLACE WITH REAL CONTENT ONCE CALENDARS ARE FIGURED OUT.      
+We currently have three Google calendars we can share with you. For help on how to use NYU Google Calendars look [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/nyu-calendar.html).
+ - **mHealth Student Schedules:** Keep this calendar updated with the days and times you plan on being in the office.   
+ - **mHealth Travel Calendar:** Keep this up to date with times you will be out due to travel or vacation.  
+ - **mHealth Events:** Add events here that we host or would be of interest to the group.
+ - **41 E. 11th St. Room Reservation:** To book rooms for meetings at CGPH request access from koylan.gomez@nyu.edu.
+ 
+**Travel and Reimbursements**  
+This is Koylan Gomez, Faculty Admin Aide Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
+
+Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
+
+Koylan can also help with reimbursements on travel expenses and other purchases related to NYU mHealth. These will require you provide receipts!
+
+**Meetings, Video Conferencing, and Phone Conference Line**  
+
+We have two weekly meetings in Room 718:
+- [The Weekly Scrum](The Weekly Scrum.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
+- [The Weekly Team Meeting](The Weekly Team Meeting) (try to be at this one!): Wednesdays - 11:00-12:00
+
+When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
+
+CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
