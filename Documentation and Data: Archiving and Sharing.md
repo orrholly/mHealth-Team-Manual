@@ -19,6 +19,7 @@ Why does it go here:
 
     - Faculty, staff, and students understand how it works (it's intuitive)
     - Easy to share with internal and external collaborators
+    - It's basically Excel and Word for the cloud - but free
 
 ####<img src="/Images/Box-logo.jpg" width="70">  NYU Box  
 [NYU Box](https://www.nyu.edu/life/resources-and-services/information-technology/websites-storage-and-sharing/nyu-box.html) is available to NYU and faculty and staff. Students can get access if faculty or staff make a request to askit@nyu.edu. If you need to store or share sensitive data (IRB, PII, HIPAA) asking Holly, Hong, Tom, or Tac to email a request to askit@nyu.edu. 
@@ -27,8 +28,8 @@ What goes here:
 
     - PII (personally identifiable data)
     - FERPA (student records)  
-    - Imtellectual property
-    - Sensitive data (if you have to ask, put it here)
+    - Intellectual property (data we buy or might sell)
+    - Sensitive data (if you have to ask, put it in the Box)
     
 Why does it go here:
 
@@ -40,14 +41,11 @@ We pontificate on Github here.
 
 What goes here:
 
-    - Project documents  
-    - Papers  
-    - IRB materials  
-    - Research  
-    - Meeting notes
+    - Code  
+    - Documentation that gets updated often (like this manaual!)  
     
 Why does it go here:
 
-    - NYU is a Google Apps for Ed instution
-    - Faculty, staff, and students understand how it works (it's intuitive)
-    - Easy to share with internal and external collaborators
+    - Version control (for an explanation look here)
+    - Easy to access for the team
+    - You can put that you have used Github on your resume
