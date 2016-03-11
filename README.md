@@ -40,7 +40,7 @@ Below is a current list of what we use with a link to an introduction and tutori
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
 **Required**  
-- [NYU mHealth Google Drive](Docs & Data: Archive & Share.md)  
+- [NYU mHealth Google Drive](Docs and Data: Archive and Share.md)  
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - [Jira](Agile, Scrum (and Jira).md)
 - [Slack](How We Communicate.md)
@@ -48,7 +48,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - [Survos](https://survos.com/)
-- [NYU Box](Docs & Data: Archive & Share.md)  
+- [NYU Box](Docs and Data: Archive and Share.md)  
 - [ArcGIS](https://www.arcgis.com/features/) - request [license from library](http://guides.nyu.edu/c.php?g=276822&p=2845922) (*requires Windows operating system)
 - [AWS (Amazon Web Services)](https://aws.amazon.com/?nc2=h_lg) - you can check out our documentation [here](https://github.com/nyu-mhealth/NYU-AWS).
 
