@@ -35,7 +35,7 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 ####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
-Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, or third) week with us, go through each of the links in the **Required** list. Here you will find intros and links to tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
+Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and links to tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
 
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
