@@ -80,7 +80,7 @@ Koylan can also help with reimbursements on travel expenses and other purchases 
 **Meetings, Video Conferencing, and Phone Conference Line**  
 
 We have two weekly meetings in Room 718:
-- [The Weekly Scrum](The Weekly Scrum.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
+- [The Weekly Sprint Meeting](The Weekly Sprint Meeting.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
 - [The Weekly Team Meeting](The Weekly Team Meeting) (try to be at this one!): Wednesdays - 11:00-12:00
 
 When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
