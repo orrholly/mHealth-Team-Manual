@@ -30,9 +30,8 @@ Well... there are frameworks for Agile that help you set some rules and steps fo
 
 What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech documentation. So, let's break it down to the parts of Scrum we currently practice at NYU mHealth:
 - Sprint: 
-- Weekly Scrum:
-- Jira:
-- Agile Board:
+- [The Weekly Sprint Planning Meeting](The Weekly Sprint Meeting.md): This is where the staff plans the next weeks Sprint.
+- [Scrum Board](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/using-a-board): This is a tool we use in Jira to see what we are working on in the current Sprint. The sprint tasks are organized in three sections: To Do, In Progress, Done. sc 
 
 As we grow and learn as a team, we will add more Scrum/Agile elements to our process - hey we're learning all this too! If you want to learn more about Agile and Scrum, here are a list of resources we suggest (remember to feel free to add any you find)!  
 - [Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/gp/product/193796504X?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - A good place to start (it only takes a few minutes to read). And, we have this book in our library (so you can check it out).  
