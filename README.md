@@ -59,7 +59,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
   - [Sublime](https://www.sublimetext.com/)
   - [Jupyter Notebooks](http://jupyter.org/)  
 
-####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Boring Bits
+####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Need to Know
 **Calendars and Schedules**    
 
 When you're not going to be in the office, (sick, travelling, overwhelmed with midterms...) tell us (through Slack or email).  
