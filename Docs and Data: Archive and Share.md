@@ -1,4 +1,4 @@
-###Documentation & Data: Archiving & Sharing 
+###Documentation and Data: Archiving and Sharing 
 <img src="/Images/computer.png" width="250">  
 
 ####Where Do I Put This?
