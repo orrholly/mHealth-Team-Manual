@@ -1,5 +1,5 @@
 ##The Weekly Team Meeting  
-<img src="/Images/jedi.png" width="300">    
+<img src="/Images/jedi.png" width="500">    
 
 Every Wednesday @ 11:00-12:00, the NYU mHealth Team (interns and staff) gather in Room 718 (and on [appear.in/nyumhealth](https://appear.in/nyumhealth)) to brainstorm, collaborate, and learn.   
 
