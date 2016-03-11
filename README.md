@@ -1,6 +1,9 @@
 # Welcome to the NYU mHealth Team
 
 ##<img src="/Images/nervous.jpg" width="120">  Your First Day: Don't Sweat It
+####<img src="/Images/cropped-logo_transparent.png" width="35">  Welcome
+We are excited to have you as part of the NYU mHealth Team! If we haven't done this already, you should schedule time with holly.orr@nyu.edu or sasha.guttentag@nyu.edu so we can give you a brief introduction to the tools we use and verify you have access. After that, you can use this manual to learn more about the team, systems and tools we use for effective collaboration. Have fun!
+
 ####<img src="https://github.com/favicon.ico" width="35">  Starting with Github
 Congratulations! Since you are reading this, you have accomplised the first step in your onboarding process... accessing our Github site! You are inside what is called a repository (repo for short). Each repo on the NYU mHealth site is associated with a research project or topic where files, code, and documentation can be updated and managed. Git is the current cool kid for [version control](http://git-scm.com/video/what-is-version-control). But more on that later...
 
