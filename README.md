@@ -35,12 +35,12 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 ####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
-Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and links to tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
+Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
 
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
 **Required**  
-- [NYU mHealth Google Drive](Docs & Data: Archive & Share.md)
+- [NYU mHealth Google Drive](Docs & Data: Archive & Share.md)  
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - [Jira](Agile, Scrum (and Jira).md)
 - [Slack](How We Communicate.md)
@@ -48,7 +48,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - [Survos](https://survos.com/)
-- [NYU Box](Docs & Data: Archive & Share.md)
+- [NYU Box](Docs & Data: Archive & Share.md)  
 - [ArcGIS](https://www.arcgis.com/features/) - request [license from library](http://guides.nyu.edu/c.php?g=276822&p=2845922) (*requires Windows operating system)
 - [AWS (Amazon Web Services)](https://aws.amazon.com/?nc2=h_lg) - you can check out our documentation [here](https://github.com/nyu-mhealth/NYU-AWS).
 
