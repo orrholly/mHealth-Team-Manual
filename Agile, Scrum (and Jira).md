@@ -37,7 +37,7 @@ What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech do
 As we grow and learn as a team, we will add more Scrum/Agile elements to our process - hey we're learning all this too! If you want to learn more about Agile and Scrum, here are a list of resources we suggest (remember to feel free to add any you find)!  
 - [Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/gp/product/193796504X?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - A good place to start (it only takes a few minutes to read). And, we have this book in our library (so you can check it out).  
 - [The Elements of Scrum](http://www.amazon.com/gp/product/0982866917?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - We have this book in our library (so you can check it out).  
-- [The Scrum Framework in the 30 Seconds](Scrum.pdf)
+- [The Scrum Framework in 30 Seconds](Scrum.pdf)
 - [A Brief Introduction to Scrum](https://www.atlassian.com/agile/scrum) 
 
 ####Jira
