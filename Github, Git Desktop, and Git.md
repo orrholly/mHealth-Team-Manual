@@ -36,7 +36,7 @@ While we are onboarding you, we will help you create a repo for your research an
 
 - [Github Use Cases and Desktop Apps](https://www.youtube.com/watch?v=l40x1EshOBE)
 - [Getting Git Right](https://www.atlassian.com/git/)
-- [Tutorial on Branching - (we will git to that later)](http://pcottle.github.io/learnGitBranching/)
+- [Tutorial on Branching - (advanced users)](http://pcottle.github.io/learnGitBranching/)
 
 ####Markdown (.md)
 This team manual was created with markdown. It looks weird at first, but you will get the hang of it pretty fast. Also, it's a good idea whenever you create a repo, to create a README.md file and use markdown to write and explanation of the purpose of the repo. Here's [a great guide](https://guides.github.com/features/mastering-markdown/) to get you going. 
