@@ -16,10 +16,10 @@ During your onboarding, you were added to our mhealth Google Group. This serves 
 
 Learn more [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/group-email/nyu-groups.html).
 
-<img src="/Images/multimedia.png" width="35">   **Video Conferencing**
+<img src="/Images/multimedia.png" width="35">   **Video Conferencing**  
 There are alot of video conferencing solutions out there. Some are better than others. Here is what we currently use (again - if you have a suggestion tell us or add it here!):  
  - https://appear.in/nyumhealth - This is where we hold our weekly meetings for those who are remote or can't attend in person. We've found it is more reliable than Google Hangouts (at least for now). Just put that link in your browser during the appointed meeting time and you should see us!
  - [Google Hangouts](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/meetings-chat-conferencing/nyu-chat-and-hangouts.html) - This is a supported NYU Google app. We tend to use this when our meetings involve screen sharing - it's a bit better for that than appear.in.
 
-<img src="/Images/people.png" width="45">  **Face-to-Face**
+<img src="/Images/people.png" width="45">  **Face-to-Face**  
 Nothing beats face-to-face commuminication. Alot can be lost when we aren't in the same room. So, when you can come to our team meetings!
