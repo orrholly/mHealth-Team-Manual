@@ -38,7 +38,7 @@ Why does it go here:
     - NYU IRB has given Box the stamp of approval
 
 ####<img src="/Images/Octocat.png" width="70">  NYU mHealth Github
-We pontificate on Github here.
+We have a whole section on how to use Github [here](Github, Git Desktop, and Git.md).
 
 What goes here:
 
