@@ -1,8 +1,9 @@
+###Documentation and Data: Archiving and Sharing
 <img src="/Images/computer.png" width="250">
 ###Where Do I Put This?
 We are still working out the kinks on this one (it's hard people). With your help, we will come up with the best solution for our work, research, and team. Here's a first go:
 
-**NYU mHealth Google Drive**
+<img src="/Images/scrum.gif" width="100">**NYU mHealth Google Drive**
 
 What goes here:
 
