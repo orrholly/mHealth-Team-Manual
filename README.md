@@ -28,7 +28,7 @@ We like to say if you meet someone that is born knowing how to do *everything* t
 
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
-In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)... click [here](Agile, Scrum (and Jira).md). 
+In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)...[ go here](Agile, Scrum (and Jira).md). 
 
 ##<img src="/Images/unicorn.jpg" width="150">  Your First Month: Rainbows and Unicorns
 
