@@ -30,7 +30,7 @@ Well... there are frameworks for Agile that help you set some rules and steps fo
 
 What?? That makes it clear as mud. Yea, we know. Welcome to the world of tech documentation. So, let's break it down to the parts of Scrum we currently practice at NYU mHealth:
 - [Sprint](The Weekly Sprint Meeting.md): Currently, our sprints last one week (Tuesday to Tuesday). A Sprint ideally is the tasks Tom (product owner) has identified as a priority to get a accomplished during that week. Of course things change and come up - but we try to focus on this list during the Sprint.  
-- [The Weekly Sprint Planning Meeting](The Weekly Sprint Meeting.md): This is where the staff plans the next weeks Sprint.
+- [The Weekly Sprint Planning Meeting](The Weekly Sprint Meeting.md): This is where the staff plans the next week's Sprint.
 - [Scrum Board](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/using-a-board): This is a tool we use in Jira to see what we are working on in the current Sprint. The sprint tasks are organized in three sections: To Do, In Progress, Done.  
 - [Backlog](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/using-a-board/using-the-backlog): Tasks we have identified that are not part of the current Sprint. Think of it as our TODO list for later!  
 
@@ -39,5 +39,16 @@ As we grow and learn as a team, we will add more Scrum/Agile elements to our pro
 - [The Elements of Scrum](http://www.amazon.com/gp/product/0982866917?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - We have this book in our library (so you can check it out).  
 - [The Scrum Framework in the 30 Seconds](Scrum.pdf)
 - [A Brief Introduction to Scrum](https://www.atlassian.com/agile/scrum) 
+
+####Jira
+
+When you were onboarded, you were given an account for NYU mHealth Jira. This is the tool we use for our Scrum processes. There are many, many tools out there - but so far we like this one. There is alot to it, but for our purposes you only learn how to do 3 things:
+  
+  - [Create a Project](https://confluence.atlassian.com/jiracloud/create-a-project-735940417.html)
+  - Create a Task
+  - Add a Task to the Sprint
+  - Drag the task from Todo to In Progress to Done in the Scrum board
+ 
+  That's it! Ask us questions if you need help - it may take a few tries to get the hang of it. Of course you can [learn more](https://confluence.atlassian.com/jirasoftwarecloud/jira-software-documentation-764477791.html) if you want to...
 
 
