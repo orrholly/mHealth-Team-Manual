@@ -40,7 +40,7 @@ Below is a current list of what we use with a link to an introduction and tutori
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
 **Required**  
-- [NYU mHealth Google Drive](Docs and Data: Archive and Share.md)  
+- [NYU mHealth Google Drive](Docs and Data: Archive and Share.md)    
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - [Jira](Agile, Scrum (and Jira).md)
 - [Slack](How We Communicate.md)
