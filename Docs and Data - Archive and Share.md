@@ -47,6 +47,6 @@ What goes here:
     
 Why does it go here:
 
-    - Version control (for an explanation look [here](http://git-scm.com/video/what-is-version-control))
+    - Version control. For an explanation look [here](http://git-scm.com/video/what-is-version-control)
     - Easy to access for the team
     - You can put that you have used Github on your resume
