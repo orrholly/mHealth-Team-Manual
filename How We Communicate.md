@@ -22,4 +22,4 @@ There are alot of video conferencing solutions out there. Some are better than o
  - [Google Hangouts](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/meetings-chat-conferencing/nyu-chat-and-hangouts.html) - This is a supported NYU Google app. We tend to use this when our meetings involve screen sharing - it's a bit better for that than appear.in.
 
 <img src="/Images/people.png" width="45">  **Face-to-Face**  
-Nothing beats face-to-face commuminication. Alot can be lost when we aren't in the same room. So, when you can come to our team meetings!
+Nothing beats face-to-face commuminication. Alot can be lost when we aren't in the same room. So, when you can, come to our team meetings!
