@@ -5,4 +5,4 @@ Every Wednesday @ 11:00-12:00, the NYU mHealth Team (interns and staff) gather i
 
 These are early days, and we are still working out what we all want this to look like (that means you!). But here are some concepts to get the conversation started:  
 
-Blitz:
+Blitz: TOM AND TAC - PLEASE DEFINE THIS SECTION
