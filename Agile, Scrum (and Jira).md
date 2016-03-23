@@ -46,9 +46,9 @@ When you were onboarded, you were given an account for NYU mHealth Jira. This is
   
   - Login to [the NYU mHealth Jira](https://nyumhealth.atlassian.net) site.
   - [Create a Project](https://confluence.atlassian.com/jiracloud/create-a-project-735940417.html)
-  - Create a Task
-  - Add a Task to the Sprint
-  - Drag the task from Todo to In Progress to Done in the Scrum board
+  - Create an [issue](https://confluence.atlassian.com/jirasoftwarecloud/creating-issues-and-sub-tasks-764478439.html) for simplicity we are only using "Task" issue types currently.
+  - Add a Task to the [backlog](https://confluence.atlassian.com/jirasoftwarecloud/using-the-backlog-764478062.html) or current sprint.
+  - If the task is in the sprint, drag the task from Todo to In Progress to Done in the Scrum board.
  
   That's it! Ask us questions if you need help - it may take a few tries to get the hang of it. Of course you can [learn more](https://confluence.atlassian.com/jirasoftwarecloud/jira-software-documentation-764477791.html) if you want to...
 
