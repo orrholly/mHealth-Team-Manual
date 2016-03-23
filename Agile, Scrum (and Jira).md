@@ -44,6 +44,7 @@ As we grow and learn as a team, we will add more Scrum/Agile elements to our pro
 
 When you were onboarded, you were given an account for NYU mHealth Jira. This is the tool we use for our Scrum processes. There are many, many tools out there - but so far we like this one. There is alot to it, but for our purposes you only learn how to do 3 things:
   
+  - Login to [the NYU mHealth Jira](https://nyumhealth.atlassian.net) site.
   - [Create a Project](https://confluence.atlassian.com/jiracloud/create-a-project-735940417.html)
   - Create a Task
   - Add a Task to the Sprint
