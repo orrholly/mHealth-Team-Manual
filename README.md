@@ -69,11 +69,11 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 
 When you're not going to be in the office. Rather your sick, travelling, overwhelmed with midterms, broke up with your boyfriend/girlfrind/both/yourself - just please tell us you are can't come in through Slack or email (no judgement).    
 
-We currently have three Google calendars we can share with you. For help on how to use NYU Google Calendars look [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/nyu-calendar.html).
-TOM AND TAC - PLEASE DEFINE WHAT CALENDARS YOU WANT - HONG AND I CREATED THESE PER EARLIER REQUESTS
+We currently have three Google calendars we can share with you. For help on how to use NYU Google Calendars look [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/nyu-calendar.html).  
  - **mHealth Student Schedules:** Keep this calendar updated with the days and times you plan on being in the office.   
- - **mHealth Travel Calendar:** Keep this up to date with times you will be out due to travel or vacation.  
+ - **mHealth Out of Office:** Keep this up to date with times you will be out of office.  
  - **mHealth Events:** Add events here that we host or would be of interest to the group.
+ - **mHealth Meetings:** Add all meetings here.
  - **41 E. 11th St. Room Reservation:** To book rooms for meetings at CGPH request access from koylan.gomez@nyu.edu.
  
 **Travel and Reimbursements**  
