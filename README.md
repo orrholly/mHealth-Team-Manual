@@ -79,7 +79,7 @@ We currently have three Google calendars we can share with you. For help on how 
 **Travel and Reimbursements**  
 This is Koylan Gomez, Faculty Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
 
-Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request **at least a week** in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
+Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request at least a week in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
 
 Koylan can also help with reimbursements on travel expenses and other purchases related to NYU mHealth. These will require you provide receipts!
 
