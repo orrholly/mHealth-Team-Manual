@@ -1,6 +1,7 @@
 # Welcome to the NYU mHealth Team
 
 <img src="/Images/nervous.jpg" width="120"> 
+
 ## Your First Day: Don't Sweat It
 
 <img src="/Images/cropped-logo_transparent.png" width="40">  
