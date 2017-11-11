@@ -2,6 +2,7 @@
 
 
 <img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/scrum.gif" width="100">  
+
 ### Agile: This is How We Roll
 
     ag·ile: adjective 
