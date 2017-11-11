@@ -1,7 +1,8 @@
-##Agile and Scrum and Jira [(oh my!)](https://youtu.be/NecK4MwOfeI)
+## Agile and Scrum and Jira [(oh my!)](https://youtu.be/NecK4MwOfeI)
 
 
-###<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/scrum.gif" width="100">  Agile: This is How We Roll
+<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/scrum.gif" width="100">  
+### Agile: This is How We Roll
 
     ag·ile: adjective 
     
@@ -18,7 +19,7 @@ Once upon a time, we thought we could plan ahead for everything (LOL). But then 
 
 OK. Good point (says you - after you read [**what we told you to read above**)](Agile.vs.Waterfall.pdf). 
 
-####Scrum
+#### Scrum
 
         "But how do I implement an Agile approach to my work?"
 
@@ -40,7 +41,7 @@ As we grow and learn as a team, we will add more Scrum/Agile elements to our pro
 - [The Scrum Framework in 30 Seconds](Scrum.pdf)
 - [A Brief Introduction to Scrum](https://www.atlassian.com/agile/scrum) 
 
-####Jira
+#### Jira
 
 When you were onboarded, you were given an account for NYU mHealth Jira. This is the tool we use for our Scrum processes. There are many, many tools out there - but so far we like this one. There is alot to it, but for our purposes you only learn how to do 3 things:
   
