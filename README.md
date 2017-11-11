@@ -48,7 +48,7 @@ We like to say if you meet someone that is born knowing how to do *everything* t
 
 So ask questions! Fail fast and often! And teach your teammates when you can!
 
-In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)...[ go here](Agile, Scrum (and Jira).md). 
+In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)...[ go here](Agile.md). 
 
 <img src="/Images/unicorn.jpg" width="150"> 
  
@@ -73,7 +73,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - [Survos](https://survos.com/)  
-- [NYU Box]('Docs and Data - Archive and Share.md')    
+- [NYU Box](Docs_and_Data.md)    
 - [ArcGIS](https://www.arcgis.com/features/) - request [license from library](http://guides.nyu.edu/c.php?g=276822&p=2845922) (*requires Windows operating system)  
 - [AWS (Amazon Web Services)](https://aws.amazon.com/?nc2=h_lg) - you can check out our documentation [here](https://github.com/nyu-mhealth/NYU-AWS).  
 
