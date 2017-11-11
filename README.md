@@ -1,7 +1,8 @@
 # Welcome to the NYU mHealth Team
 
-##<img src="/Images/nervous.jpg" width="120">  Your First Day: Don't Sweat It
-####<img src="/Images/cropped-logo_transparent.png" width="40">  Welcome
+<img src="/Images/nervous.jpg" width="120"> ##Your First Day: Don't Sweat It
+
+<img src="/Images/cropped-logo_transparent.png" width="40">  ###Welcome
 We are excited to have you as part of the NYU mHealth Team! First off, take a minute to add your info to this [spreadsheet](https://docs.google.com/spreadsheets/d/1oxFE-A4XSGE57QjfEF16QaH1KA5AGuzfP-C-u4MOGOI/edit#gid=0). 
 
 If we haven't done this already, you should schedule time with holly.orr@nyu.edu or sasha.guttentag@nyu.edu so we can give you a brief introduction to the tools we use and verify you have access. After that, you can use this manual to learn more about the team, systems, and tools we use for effective collaboration. Have fun!
