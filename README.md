@@ -1,20 +1,20 @@
 # Welcome to the NYU mHealth Team
 
 <img src="/Images/nervous.jpg" width="120"> 
-##Your First Day: Don't Sweat It
+## Your First Day: Don't Sweat It
 
 <img src="/Images/cropped-logo_transparent.png" width="40">  
-####Welcome
+#### Welcome
 We are excited to have you as part of the NYU mHealth Team! First off, take a minute to add your info to this [spreadsheet](https://docs.google.com/spreadsheets/d/1oxFE-A4XSGE57QjfEF16QaH1KA5AGuzfP-C-u4MOGOI/edit#gid=0). 
 
 If we haven't done this already, you should schedule time with holly.orr@nyu.edu or sasha.guttentag@nyu.edu so we can give you a brief introduction to the tools we use and verify you have access. After that, you can use this manual to learn more about the team, systems, and tools we use for effective collaboration. Have fun!
 
 <img src="https://github.com/favicon.ico" width="35">  
-####Starting with Github
+#### Starting with Github
 Congratulations! Since you are reading this, you have accomplised the first step in your onboarding process... accessing our Github site! You are inside what is called a repository (repo for short). Each repo on the NYU mHealth site is associated with a research project or topic where files, code, and documentation can be updated and managed. Git is the current cool kid for [version control](http://git-scm.com/video/what-is-version-control). But more on that later...
 
 <img src="/Images/avatar.ico" width="40">  
-####Create Your Avatar
+#### Create Your Avatar
 The next step to becoming an NYU mHealth team member is creating your avatar! Yes, we know it's whimsical, but believe us, it serves a purpose. You'll see. For now, download one of the following apps (or add your favorite to the list!), create your avatar, and send it as a .png or .jpg to holly.orr@nyu.edu or sasha.guttentag@nyu.edu.
 
 - https://bitmoji.com/  
@@ -24,13 +24,13 @@ The next step to becoming an NYU mHealth team member is creating your avatar! Ye
 - http://www.manga.com/content/avatar-face-maker  
 
 <img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/help-web-button.png" width="40">  
-####Send Us Your Bio
+#### Send Us Your Bio
 As we create the website, we'd like to include mini-bios about all of our members - along with the avatars (see above). Here's an example bio just so you have a sense of what we're going for:
 
 *Jane Doe is an Epidemiology MPH student at the NYU College of Global Public Health. Her interests include geospatial analysis and predictive behavior modeling. Within the mHealth Lab, she is currently focused on QA testing of mobile surveying software and cross-collaborative project management.* 
 
 <img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/brainstorming-icon.png" width="50">  
-####The Culture
+#### The Culture
 We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to use Jira, build a log-linear model, program in Python, or develop the best research protocol. That's why we are here, right? To learn! 
 
 We like to say if you meet someone that is born knowing how to do *everything* then [they are probably some sort of AI from the future](https://en.wikipedia.org/wiki/The_Terminator) and you should run-away as fast as possible! 
@@ -40,10 +40,10 @@ So ask questions! Fail fast and often! And teach your teammates when you can!
 In the spirit of collaboration and innovation, we have borrowed a project management method/framework that started in Silicon Valley, but has also become popular in organizations outside the tech sector: Agile/Scrum.  It's how we run meetings and organize our team. You will learn by osmosis (don't sweat it)! But, if you would like to learn more (by reading)...[ go here](Agile, Scrum (and Jira).md). 
 
 <img src="/Images/unicorn.jpg" width="150">  
-##Your First Month: Rainbows and Unicorns
+## Your First Month: Rainbows and Unicorns
 
 <img src="/Images/toolbox.png" width="50">  
-####The Toolbox
+#### The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
 Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
