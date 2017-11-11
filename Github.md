@@ -1,4 +1,6 @@
-###<img src="/Images/git-logo.jpg" width="100">Version Control and Git
+<img src="/Images/git-logo.jpg" width="100">
+
+### Version Control and Git
 
 In case you don't know what version control is and why we use it, [watch this](http://git-scm.com/video/what-is-version-control) and then come back.
 
@@ -14,7 +16,7 @@ If you don't have an account:
 
 Once you have access, you might want to bookmark our Github instance: https://github.com/nyu-mhealth
 
-####What's the Diff?
+#### What's the Diff?
 Now you are saying, what's the difference between Git, Git Desktop, and Github? 
 
 **[GitHub](https://github.com/)** is a hosting service for Git repositories. It allows for easy team collaboration - a central place for us to share our code and often changing documentation (like this Team Handbook)! You can get by just using Github to upload, view, and download files. But if you are going to do some programming you probably want to try... 
@@ -24,13 +26,14 @@ Now you are saying, what's the difference between Git, Git Desktop, and Github?
 **[Git](https://git-scm.com/)** is the actual version control system, and a command line tool to manage your source code history.   
 
 So, they are not the same thing: 
+
 - GitHub = a web service for projects that use Git
 - Github Desktop = a GUI (graphical user interface) desktop client that makes using git commands easier
 - Git = the tool and the command line approach to executing Git commands
 
 Git it (haha)? Still confused? Watch [this](https://www.youtube.com/watch?v=xKVlZ3wFVKA) or ask us!
 
-####Gitting Started (It's a great pun)
+#### Gitting Started (It's a great pun)
 
 While we are onboarding you, we will help you create a repo for your research and/or project. You can also ask your teammates for help. Or you can checkout some tutorials, like the ones we've listed below (there are a ton out there). If you find others you recommend - add it to this list!
 
@@ -38,5 +41,5 @@ While we are onboarding you, we will help you create a repo for your research an
 - [Getting Git Right](https://www.atlassian.com/git/)
 - [Tutorial on Branching - (advanced users)](http://pcottle.github.io/learnGitBranching/)
 
-####Markdown (.md)
+#### Markdown (.md)
 This team manual was created with markdown. It looks weird at first, but you will get the hang of it pretty fast. Also, it's a good idea whenever you create a repo, to create a README.md file and use markdown to write and explanation of the purpose of the repo. Here's [a great guide](https://guides.github.com/features/mastering-markdown/) to get you going. 
