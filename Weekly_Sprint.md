@@ -1,8 +1,11 @@
-##The Weekly Sprint Planning Meeting
+## The Weekly Sprint Planning Meeting
 
 
-###<img src="/Images/run.png" width="100">  The Sprint    
-Every Tuesday @ 10:30-11:00, the NYU mHealth gathers in Room 718 (and on appear.in/nyumhealth) to plan the next week's priorities (aka Sprint in Scrum world). This is one of the elements of Agile/Scrum that the team has adopted. To learn more about that go to the [Agile, Scrum (and Jira)](Agile, Scrum (and Jira).md) page in this manual. 
+<img src="/Images/run.png" width="100">  
+
+### The Sprint  
+
+Every Tuesday @ 10:30-11:00, the NYU mHealth gathers in Room 718 (and on appear.in/nyumhealth) to plan the next week's priorities (aka Sprint in Scrum world). This is one of the elements of Agile/Scrum that the team has adopted. To learn more about that go to the [Agile, Scrum (and Jira)](Agile.md) page in this manual. 
 
 We keep these meetings short and sweet (30 minutes). Here's how it is structured:
 
