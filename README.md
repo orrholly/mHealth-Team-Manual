@@ -67,7 +67,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Required**  
 - [NYU mHealth Google Drive](Docs_and_Data.md)   
 - [Github/Git/Git Desktop](Github.md)
-- [Jira](Agile).md)
+- [Jira](Agile.md)
 - [Slack](Communicate.md)
 
 **Optional - Request Access**  
@@ -112,8 +112,8 @@ Koylan can also help with reimbursements on travel expenses and other purchases 
 **Meetings, Video Conferencing, and Phone Conference Line**  
 
 We have two weekly meetings in Room 718:
-- [The Weekly Sprint Meeting](The Weekly Sprint Meeting.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00  
-- [The Weekly Team Meeting](The Weekly Team Meeting.md) (try to be at this one!): Wednesdays - 11:00-12:00  
+- [The Weekly Sprint Meeting](Weekly_Sprint.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00  
+- [The Weekly Team Meeting](Team.md) (try to be at this one!): Wednesdays - 11:00-12:00  
 
 When you can't meet face-to-face, you can come virtually by going here: [https://appear.in/nyumhealth](https://appear.in/nyumhealth).
 
